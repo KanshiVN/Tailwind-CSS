@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tailwind is used for responsive website css styling for every dimensions */
+
+body{
+    background-color: black;
+}
